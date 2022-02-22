@@ -1,10 +1,9 @@
 ## Buttons / Toggle Buttons made using pure CSS
 
-![screenshot of toggle buttons](assets/images/screenshpt.png)
+![screenshot of toggle buttons](assets/images/screenshot.png)
 
 ### Video of button interaction
 
-https://user-images.githubusercontent.com/63502167/155090462-e0de47d7-3fad-44ad-91b6-9425a455ecaa.mp4
+![](./assets/images/interaction.gif)
 
-_The last two buttons are diabled and are a preview of same_
-
+_<div style="text-align: right">The last two buttons are disabled and are previews of the same</div>_
